@@ -1,0 +1,26 @@
+{
+  "name": "import-export",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/konst-an/import-export.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/konst-an/import-export/issues"
+  },
+  "homepage": "https://github.com/konst-an/import-export#readme",
+  "devDependencies": {
+    "webpack": "^5.105.1",
+    "webpack-cli": "^5.1.4"
+  }
+}
